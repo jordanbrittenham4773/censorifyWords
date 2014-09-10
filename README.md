@@ -1,0 +1,4 @@
+censorifyWords
+==============
+
+censor bad words
